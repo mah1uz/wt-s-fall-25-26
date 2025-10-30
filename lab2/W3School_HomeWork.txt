@@ -1,0 +1,36 @@
+
+
+
+
+Language
+Meta Data declaration
+Radio button
+Input types
+HTML Attributes
+Submit button 
+
+
+
+
+
+
+
+
+
+Language
+Meta Data declaration
+Radio button
+Input types
+Submit button 
+
+##### HTML Attributes
+- type
+- action
+- syntax of an attribute: <form action ="value">
+all elements can have attributes
+
+
+Anchor tag for embedded links
+
+
+
