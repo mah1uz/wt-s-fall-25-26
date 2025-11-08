@@ -1,22 +1,3 @@
-
-
-
-
-Language
-Meta Data declaration
-Radio button
-Input types
-HTML Attributes
-Submit button 
-
-
-
-
-
-
-
-
-
 Language
 Meta Data declaration
 Radio button
